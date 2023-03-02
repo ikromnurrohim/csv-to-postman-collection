@@ -24,7 +24,11 @@ pip install -r requirements.txt
 
 
 ## FOR USING 
-### Open file run.py
+### Edit file run.py
 update csv file and json file 
 
 ![image](https://user-images.githubusercontent.com/59647417/222406821-9e4811ca-fc16-4517-8de4-0dc6f796b0eb.png)
+
+### Running script
+![image](https://user-images.githubusercontent.com/59647417/222407494-bc0fb6ef-c367-44a3-abd1-47b16aec40d3.png)
+
