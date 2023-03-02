@@ -1,0 +1,190 @@
+{
+    "info": {
+        "_postman_id": "432f9e34-5f9d-4ed2-ad2e-f60b1163248b",
+        "name": "Test",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+        "_exporter_id": "24072707"
+    },
+    "item": [
+        {
+            "name": "APPS-DEFAULT",
+            "item": [
+                {
+                    "name": "API 1",
+                    "item": [
+                        {
+                            "name": "sendMessage",
+                            "request": {
+                                "method": "POST",
+                                "header": [],
+                                "body": {
+                                    "mode": "raw",
+                                    "raw": "{\n    \"chat_id\": \"-787561772\",\n    \"text\": \"API 1\"\n}",
+                                    "options": {
+                                        "raw": {
+                                            "language": "json"
+                                        }
+                                    }
+                                },
+                                "url": {
+                                    "raw": "https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/sendMessage",
+                                    "protocol": "https",
+                                    "host": [
+                                        "api",
+                                        "telegram",
+                                        "org"
+                                    ],
+                                    "path": [
+                                        "bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk",
+                                        "sendMessage"
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "API 2",
+                    "item": [
+                        {
+                            "name": "sendMessage",
+                            "request": {
+                                "method": "POST",
+                                "header": [],
+                                "body": {
+                                    "mode": "raw",
+                                    "raw": "{\n    \"chat_id\": \"-787561772\",\n    \"text\": \"API 2\"\n}",
+                                    "options": {
+                                        "raw": {
+                                            "language": "json"
+                                        }
+                                    }
+                                },
+                                "url": {
+                                    "raw": "https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/sendMessage",
+                                    "protocol": "https",
+                                    "host": [
+                                        "api",
+                                        "telegram",
+                                        "org"
+                                    ],
+                                    "path": [
+                                        "bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk",
+                                        "sendMessage"
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "APPS-SMART",
+            "item": [
+                {
+                    "name": "API 1",
+                    "item": [
+                        {
+                            "name": "sendMessage",
+                            "request": {
+                                "method": "POST",
+                                "header": [],
+                                "body": {
+                                    "mode": "raw",
+                                    "raw": "{\n    \"chat_id\": \"-787561772\",\n    \"text\": \"APPS SMART API 1\"\n}",
+                                    "options": {
+                                        "raw": {
+                                            "language": "json"
+                                        }
+                                    }
+                                },
+                                "url": {
+                                    "raw": "https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/sendMessage",
+                                    "protocol": "https",
+                                    "host": [
+                                        "api",
+                                        "telegram",
+                                        "org"
+                                    ],
+                                    "path": [
+                                        "bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk",
+                                        "sendMessage"
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "API 2",
+                    "item": [
+                        {
+                            "name": "sendMessage",
+                            "request": {
+                                "method": "POST",
+                                "header": [],
+                                "body": {
+                                    "mode": "raw",
+                                    "raw": "{\n    \"chat_id\": \"-787561772\",\n    \"text\": \"APPS SMART API 2\"\n}",
+                                    "options": {
+                                        "raw": {
+                                            "language": "json"
+                                        }
+                                    }
+                                },
+                                "url": {
+                                    "raw": "https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/sendMessage",
+                                    "protocol": "https",
+                                    "host": [
+                                        "api",
+                                        "telegram",
+                                        "org"
+                                    ],
+                                    "path": [
+                                        "bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk",
+                                        "sendMessage"
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "API 2",
+                    "item": [
+                        {
+                            "name": "getUpdates",
+                            "request": {
+                                "method": "GET",
+                                "header": [],
+                                "body": {
+                                    "mode": "raw",
+                                    "raw": "",
+                                    "options": {
+                                        "raw": {
+                                            "language": "json"
+                                        }
+                                    }
+                                },
+                                "url": {
+                                    "raw": "https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/getUpdates",
+                                    "protocol": "https",
+                                    "host": [
+                                        "api",
+                                        "telegram",
+                                        "org"
+                                    ],
+                                    "path": [
+                                        "bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk",
+                                        "getUpdates"
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
