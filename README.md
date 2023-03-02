@@ -1,6 +1,6 @@
 # CSV FILE TO POSTMAN COLLECTION
 
-## Installing 
+## INSTALLING 
 ``` bash
 git clone git@github.com:ikromnurrohim/csv-to-postman-collection.git
 ```
