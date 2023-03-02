@@ -1,0 +1,18 @@
+folder,subfolder,request-name,method,url,body
+APPS-DEFAULT,API 1,sendMessage,POST,https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/sendMessage,"{
+    ""chat_id"": ""-787561772"",
+    ""text"": ""API 1""
+}"
+APPS-DEFAULT,API 2,sendMessage,POST,https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/sendMessage,"{
+    ""chat_id"": ""-787561772"",
+    ""text"": ""API 2""
+}"
+APPS-SMART,API 1,sendMessage,POST,https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/sendMessage,"{
+    ""chat_id"": ""-787561772"",
+    ""text"": ""APPS SMART API 1""
+}"
+APPS-SMART,API 2,sendMessage,POST,https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/sendMessage,"{
+    ""chat_id"": ""-787561772"",
+    ""text"": ""APPS SMART API 2""
+}"
+APPS-SMART,API 2,getUpdates,GET,https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/getUpdates,
