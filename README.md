@@ -25,10 +25,16 @@ pip install -r requirements.txt
 
 ## FOR USING 
 ### Edit file run.py
+- To make collection without folder \
 update csv file and json file 
+![image](https://user-images.githubusercontent.com/59647417/222413066-35a530ce-62d0-43be-95df-9228d5da7c4f.png)
 
-![image](https://user-images.githubusercontent.com/59647417/222406821-9e4811ca-fc16-4517-8de4-0dc6f796b0eb.png)
+- To make collection with nested folder \
+update csv file and json file 
+![image](https://user-images.githubusercontent.com/59647417/222413465-b98a7a76-70f0-4d9e-8bcf-49edf21175e7.png)
 
 ### Running script
-![image](https://user-images.githubusercontent.com/59647417/222407494-bc0fb6ef-c367-44a3-abd1-47b16aec40d3.png)
+```python
+python run.py
+```
 
