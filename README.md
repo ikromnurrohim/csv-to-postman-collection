@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ![image](https://user-images.githubusercontent.com/59647417/222403422-b00b0f0a-c83b-4eb4-b379-f62e497b057c.png)
 
 #### Result of collection will be like this
-![image](https://user-images.githubusercontent.com/59647417/222405907-8830b3c4-bf46-4000-9ce3-74f2dc6d335f.png)
+![image](https://user-images.githubusercontent.com/59647417/222408799-8fc3f18a-9de9-40f7-a4b4-5157f97d39e8.png)
 
 
 ## FOR USING 
