@@ -1,0 +1,8 @@
+name,method,url,body
+BOT Send Message,POST,https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/sendMessage,"{
+    ""chat_id"": ""-787561772"",
+    ""text"": ""Testing""
+}"
+BOT Get Updates,GET,https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/getUpdates,"{
+    ""chat_id"": ""-787562""
+}"

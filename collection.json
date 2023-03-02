@@ -1,0 +1,68 @@
+{
+    "info": {
+        "_postman_id": "432f9e34-5f9d-4ed2-ad2e-f60b1163248b",
+        "name": "Test",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+        "_exporter_id": "24072707"
+    },
+    "items": [
+        {
+            "name": "BOT Send Message",
+            "request": {
+                "method": "POST",
+                "headers": [],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\n    \"chat_id\": \"-787561772\",\n    \"text\": \"Testing\"\n}",
+                    "options": {
+                        "raw": {
+                            "language": "json"
+                        }
+                    }
+                },
+                "url": {
+                    "raw": "https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/sendMessage",
+                    "protocol": "https",
+                    "host": [
+                        "api",
+                        "telegram",
+                        "org"
+                    ],
+                    "path": [
+                        "bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk",
+                        "sendMessage"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "BOT Get Updates",
+            "request": {
+                "method": "GET",
+                "headers": [],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\n    \"chat_id\": \"-787562\"\n}",
+                    "options": {
+                        "raw": {
+                            "language": "json"
+                        }
+                    }
+                },
+                "url": {
+                    "raw": "https://api.telegram.org/bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk/getUpdates",
+                    "protocol": "https",
+                    "host": [
+                        "api",
+                        "telegram",
+                        "org"
+                    ],
+                    "path": [
+                        "bot5446707136:AAFoPl3FvZ-wXe4KwAazd0HnKi_GO2hiwNk",
+                        "getUpdates"
+                    ]
+                }
+            }
+        }
+    ]
+}
